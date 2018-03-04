@@ -10,8 +10,8 @@ body {
 @font-face {
     font-family: "MyriadProRegular";
     src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
-    url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"),/*для Firefox, Internet Explorer >=9 и декстопных браузеров на webkit(Chrome, Safari и т.д.);*/
-    url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");/*поддерживается всеми браузерами за исключением IE(всех версий);*/
+    url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"),/* for Firefox, Internet Explorer >=9 and webkit(Chrome, Safari etc.)*/
+    url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");/*Supported by all browsers except IE*/
     font-style: normal;
     font-weight: normal;
 }
